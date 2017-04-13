@@ -1,4 +1,3 @@
 ## Lovingd的博客--GITHUB.IO
 
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+先写个测试的东西 下次在写
